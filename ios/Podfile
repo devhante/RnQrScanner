@@ -22,3 +22,12 @@ target 'RnQrScanner' do
     flipper_post_install(installer)
   end
 end
+
+target 'RnQrScanner-tvOS' do
+  # Pods for RnQrScanner-tvOS
+
+  target 'RnQrScanner-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end
