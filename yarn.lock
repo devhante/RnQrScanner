@@ -5438,6 +5438,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-native-nfc-manager@^2.1.9:
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/react-native-nfc-manager/-/react-native-nfc-manager-2.1.9.tgz#56677808a293fdcee064d0be0421cd64cec1606b"
+  integrity sha512-x+x1JTzVbgz8rCiE+nMHR/tOEvlrFkZa8DGPD2lPSLs9fyygc0ICGqAhZKKNs8PQCs6twaF9rBrDTUCggPZVSg==
+
 react-native-webview@^10.7.0:
   version "10.7.0"
   resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-10.7.0.tgz#b96e152ffdae4eeffaa74f43671a35733885b52d"

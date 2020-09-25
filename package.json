@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
+    "android": "source ~/.bash_profile&&react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.2",
+    "react-native-nfc-manager": "^2.1.9",
     "react-native-webview": "^10.7.0"
   },
   "devDependencies": {
